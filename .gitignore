@@ -1,2 +1,4 @@
-#ignore node modules
+#ignore shit
 node_modules
+.next
+*.log
